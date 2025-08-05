@@ -1,7 +1,7 @@
-# PRODIGY-TASK-4
+# Simple keylogger
 My forth task as intern in PRODIGY INFOTECH.
 
-Task about: Simple keylogger
+Simple keylogger
 
 Create a basic keylogger program that records and logs kaystokes. Focus on logging the keys presssed and saving them to a file. Note: Ethical considerations and permissions are crucial for projects involving keyloggers.
 
